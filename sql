@@ -155,3 +155,17 @@ Output:
 | 4  |
 +----+
 #將表格分成兩張同樣的,取時間差值=1且溫度高於時間差值=1的資料的溫度
+
+
+1661. Average Time of Process per Machine
+#一樣分成兩張表,取平均到小數第三位
+#鎖定特定欄位做計算
+
+
+1280. Students and Examinations
+#cross join,先把Subject分配給每個student,之後加入考試的表格
+
+
+570. Managers with at Least 5 Direct Reports
+#一樣兩張表,比對id
+#having count()
